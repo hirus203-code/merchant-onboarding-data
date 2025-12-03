@@ -1,16 +1,3 @@
 merchant_id,company_name,industry,country,annual_revenue,years_in_business,email,owner_name
 MER001,TechStart Solutions,Software,US,500000,2,contact@techstart.com,John Smith
 MER002,Global Import Co,Import/Export,CN,2500000,8,info@globalimport.cn,Zhang Wei
-MER003,Coffee House Cafe,Food & Beverage,GB,150000,1,hello@coffeehouse.co.uk,Sarah Brown
-MER004,Pharma Distributor,Healthcare,IN,5000000,15,contact@pharmadist.in,Rajesh Kumar
-MER005,Crypto Exchange,Fintech,SG,10000000,3,support@cryptoexch.sg,Michael Tan
-MER006,Secondhand Electronics,E-commerce,US,300000,1.5,contact@usedtech.com,Alex Johnson
-MER007,Casino Resort,Gaming,MX,50000000,20,reservations@casinoresort.mx,Carlos Rodriguez
-MER008,Legal Services LLP,Professional Services,US,750000,12,info@legalservices.com,Elizabeth White
-MER009,Tobacco Retailer,Retail,US,200000,5,sales@tobaccomart.com,Robert Miller
-MER010,Renewable Energy Corp,Energy,DE,3000000,6,contact@renewenergy.de,Hans Mueller
-MER011,Consulting Firm,Professional Services,US,1200000,4,hello@consulting.com,Jennifer Davis
-MER012,Fashion Boutique,Retail,FR,400000,2,contact@fashionboutique.fr,Marie Laurent
-MER013,Manufacturing Plant,Manufacturing,US,3500000,18,info@manufacturing.com,Tom Anderson
-MER014,Restaurant Chain,Food & Beverage,US,2000000,6,reservations@restchain.com,Marco Rossi
-MER015,Education Platform,Software,SG,800000,3,support@eduplatform.sg,David Wong

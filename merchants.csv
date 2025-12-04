@@ -1,4 +1,5 @@
 merchant_id,company_name,industry,country,annual_revenue,years_in_business,email,owner_name
 MER001,TechStart Solutions,Software,,500000,2,contact@techstart.com,John Smith
-MER002,Global Import Co,Import/Export,CN,,8,info@globalimport.cn,Zhang Wei
+MER002,Global Import Co,Import/Export,CN,60000,8,info@globalimport.cn,Zhang Wei
+
 
